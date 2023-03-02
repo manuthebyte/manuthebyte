@@ -1,8 +1,6 @@
 # Hello, I'm Manuel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 ![](https://komarev.com/ghpvc/?username=manuthebyte)
 
-<a href="https://stackoverflow.com/users/19555634/manuthebyte"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> </a>
-<a href="https://leetcode.com/manuthebyte"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
 ### That's me
 - 🎂 18 years old
 - 🇦🇹 Vienna, Austria
