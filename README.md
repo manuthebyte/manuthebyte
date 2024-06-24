@@ -5,7 +5,6 @@
 - 🎂 19 years old
 - 🇦🇹 Vienna, Austria
 - 💻 Passionate software developer
-- 📚 CS Student at the TGM
 
 ### What I live for
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> 
