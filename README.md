@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=manuthebyte)
 
 ### That's me
-- 🎂 19 years old
+- 🎂 20 years old
 - 🇦🇹 Vienna, Austria
 - 💻 Passionate software developer
 
